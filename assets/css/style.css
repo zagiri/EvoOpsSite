@@ -133,7 +133,8 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  object-fit: contain;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------

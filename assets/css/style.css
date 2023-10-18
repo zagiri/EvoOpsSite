@@ -111,6 +111,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
+  height: auto;
 }
 
 #header.header-scrolled,
@@ -118,23 +119,24 @@ h6 {
   background: rgba(40, 58, 90, 0.9);
 }
 
-#header .logo {
-  font-size: 30px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  font-weight: 500;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+.fixed-top {
+  background: pink;
+}
+
+#header .container {
+  height: 75px;
 }
 
 #header .logo a {
   color: #fff;
 }
 
-#header .logo img {
+#header img {
+  height: 200px;
+  width: 200px;
+  margin: -20px 0 0 -25px ;
+  overflow: hidden;
   object-fit: contain;
-  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -388,7 +390,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background-image: linear-gradient(to right, #ffd2f1 , #fff4fc);
 }
 
 #hero .container {
@@ -400,11 +402,12 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #ff2047;
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.6);
+  /*color: rgba(255, 255, 255, 0.6);*/
+  box-shadow: #0a53be;
   margin-bottom: 50px;
   font-size: 24px;
 }

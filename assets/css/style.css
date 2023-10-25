@@ -120,6 +120,11 @@ h6 {
   box-shadow: 10px 10px #ff4767;
 }
 
+#header.header-scrolled,
+#header.header-inner-pages-new {
+  background-image: linear-gradient(to right, #ffd2f1 , #fff4fc);
+}
+
 /*.fixed-top {*/
 /*  background: pink;*/
 /*}*/
@@ -180,6 +185,10 @@ h6 {
   font-size: 12px;
   line-height: 0;
   margin-left: 5px;
+}
+
+.pages {
+  background0-image: linear-gradient(to right, #ffd2f1 , #fff4fc);
 }
 
 .navbar a:hover,
@@ -412,6 +421,12 @@ h6 {
   margin-bottom: 50px;
   font-size: 24px;
 }
+
+
+#main-two {
+  margin-top: 100px;
+}
+
 
 #hero .btn-get-started {
   font-family: "Jost", sans-serif;

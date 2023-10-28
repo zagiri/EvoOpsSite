@@ -286,7 +286,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #555;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -913,13 +913,13 @@ section {
 }
 
 .cta h3 {
-  color: #fff;
+  color: #000;
   font-size: 28px;
   font-weight: 700;
 }
 
 .cta p {
-  color: #fff;
+  color: #000;
 }
 
 .cta .cta-btn {
@@ -932,8 +932,8 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #000;
+  color: #000;
 }
 
 .cta .cta-btn:hover {

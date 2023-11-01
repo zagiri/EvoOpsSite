@@ -882,25 +882,14 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
+  color: #FF4767;
 }
 
-.services .icon-box h4 a {
-  color: #ff4767;
-  transition: ease-in-out 0.3s;
-}
 
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
-}
-
-.services .icon-box:hover {
-  transform: translateY(-10px);
-}
-
-.services .icon-box:hover h4 a {
-  color: #47b2e4;
 }
 
 /*--------------------------------------------------------------

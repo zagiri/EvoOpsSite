@@ -1104,6 +1104,25 @@ section {
   padding: 0;
 }
 
+.portfolio-description-centered {
+  text-align: center;
+  padding: 0;
+  padding-top: 150px;
+}
+
+.portfolio-description-centered h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.portfolio-description-centered img {
+    width: 13%;
+    height: 13%;
+    object-fit: cover;
+    object-position: center top;
+}
+
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/

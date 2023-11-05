@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KTF4TH5WCW"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-KTF4TH5WCW');
+  </script>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>EvoOps | Blog</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="../assets/css/style.css" rel="stylesheet">
+
+  <style>
+    .top-margin{
+      margin-top: 30%;
+    }
+  </style>
+
+  <!-- =======================================================
+  * Template Name: Arsha
+  * Updated: Sep 18 2023 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top header-inner-pages-new">
+    <div class="container d-flex align-items-center">
+
+      <a href="index.html" class="logo me-auto"><img src="../assets/img/EvoOpsIcon.png" class="img-fluid"></a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#portfolio">Blog</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li class="dropdown"><a href="#"><span>Events</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Website Updates</a></li>
+              <!--              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>-->
+              <!--                <ul>-->
+              <!--                  <li><a href="#">Deep Drop Down 1</a></li>-->
+              <!--                  <li><a href="#">Deep Drop Down 2</a></li>-->
+              <!--                  <li><a href="#">Deep Drop Down 3</a></li>-->
+              <!--                  <li><a href="#">Deep Drop Down 4</a></li>-->
+              <!--                  <li><a href="#">Deep Drop Down 5</a></li>-->
+              <!--                </ul>-->
+              <!--              </li>-->
+              <li><a href="#">Prototype Demo</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="#about">Learn More</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main-two">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="../index.html">Home</a></li>
+          <li>Blog</li>
+        </ol>
+        <h2>Unlocking the Power of Cloud Solutions: A Guide by Evo Ops</h2>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/cloud-computing.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/portfolio-2.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/portfolio-3.jpg" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info top-margin">
+              <h3>Let's begin</h3>
+                <p>
+                  In the fast-paced world of modern business, the cloud has emerged as a game-changer. It's not just a buzzword—it's a transformative technology that's reshaping the way organizations operate. At Evo Ops, we're passionate about demystifying the cloud and showing you why it's not just good, but essential for your digital journey.
+                </p>
+            </div>
+          </div>
+
+          <div class="col-lg-12">
+              <div class="portfolio-description">
+                <h2>What are Cloud Solutions?</h2>
+                <p>
+                  Let's start with the basics. Cloud solutions refer to a range of services and resources that are delivered over the internet. Instead of relying on physical hardware or infrastructure, businesses access and use software, storage, and computing power via remote servers. In essence, the cloud acts as a virtual powerhouse that empowers businesses to scale, innovate, and thrive in the digital age.
+                </p>
+              </div>
+
+            <div class="portfolio-description">
+              <h2>Why Cloud Solutions are Essential: A Closer Look</h2>
+              <h4>Scalability and Flexibility</h4>
+              <p>
+                Imagine having the ability to scale your resources up or down with a few clicks. That's the power of cloud solutions. Whether you're a startup or a global enterprise, the cloud provides the flexibility to adapt to changing demands, ensuring you're never held back by limited resources.
+              </p>
+            </div>
+
+            <div class="portfolio-description">
+              <h2>Cost-Efficiency and Affordability</h2>
+              <p>
+                Traditional on-premises solutions often come with hefty upfront costs for hardware and infrastructure. Cloud solutions, on the other hand, operate on a pay-as-you-go model, allowing you to optimize costs and only pay for the services you use. This democratizes access to cutting-edge technology, making it accessible to businesses of all sizes.
+              </p>
+            </div>
+
+            <div class="portfolio-description">
+              <h2>Enhanced Collaboration and Accessibility</h2>
+              <p>
+                The cloud breaks down geographical barriers. With cloud-based tools and applications, teams can collaborate seamlessly, regardless of their location. This level of accessibility empowers employees to work from anywhere, fostering productivity and work-life balance.
+              </p>
+            </div>
+
+            <div class="portfolio-description">
+              <h2>Robust Security and Data Protection</h2>
+              <p>
+                Security is a paramount concern, and cloud service providers invest heavily in state-of-the-art security measures. Evo Ops ensures that your data is protected by employing encryption, access controls, and regular security updates. In fact, cloud solutions often offer superior security features compared to on-premises systems.
+              </p>
+            </div>
+
+            <div class="portfolio-description">
+              <h2>Disaster Recovery and Business Continuity</h2>
+              <p>
+                Natural disasters, hardware failures, or cyber-attacks can wreak havoc on businesses. Cloud solutions provide robust disaster recovery capabilities, allowing you to quickly restore operations and minimize downtime. Your data is stored securely offsite, ensuring it remains safe even in the face of unforeseen circumstances.
+              </p>
+            </div>
+
+            <div class="portfolio-description">
+              <h2>Continuous Innovation and Future-Readiness</h2>
+              <p>
+                The cloud is a catalyst for innovation. With regular updates and access to cutting-edge technologies, you're always at the forefront of industry trends. Evo Ops ensures that your systems are equipped to harness emerging technologies, future-proofing your business for whatever lies ahead.
+              </p>
+            </div>
+
+            <div class="portfolio-description-centered">
+              <h2>Evo Ops: Your Guide to Cloud Excellence</h2>
+              <p>
+                <i>
+                At Evo Ops, we're not just proponents of cloud solutions; we're experts in harnessing their full potential. Our team is dedicated to guiding businesses on their cloud journey, ensuring they leverage this transformative technology to its fullest. Together, let's elevate your operations, enhance your agility, and revolutionize the way you do business.<br>
+                Ready to embark on your cloud journey? Contact Evo Ops today and let's take your business to new heights in the digital realm. Elevate with Evo Ops, because the sky is not the limit—it's just the beginning!
+                </i>
+              </p>
+              <img src="../assets/img/EvoOpsIcon-Blog.png" alt="EvoOps Logo">
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section><!-- End Portfolio Details Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>EvoOps</h3>
+            <p>
+              Tristram Street <br>
+              Hamilton Central, Hamilton 3200<br>
+              New Zealand<br><br>
+              <strong>Phone:</strong> 0800 555 555<br>
+              <strong>Email:</strong> info@evoops.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="pages/privacy-policy.html">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>Stay connected with EvoOps for the latest updates.</p>
+            <div class="social-links mt-3">
+              <a href="https://www.facebook.com/profile.php?id=61552665113488" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.linkedin.com/company/evoopsnewzealand" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright <strong><span>EvoOps</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
+        Designed by <a class="boot-link"href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="../assets/vendor/aos/aos.js"></script>
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="../assets/js/main.js"></script>
+
+</body>
+
+</html>

@@ -1631,6 +1631,17 @@ section {
   margin-top: 72px;
 }
 
+.breadcrumbs-modified {
+  padding-top: 0px;
+}
+
+.breadcrumbs-modified h2{
+  padding-bottom: 0px;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgba(255,71,103, 1);
+}
+
 @media (max-width: 992px) {
   .breadcrumbs {
     margin-top: 68px;

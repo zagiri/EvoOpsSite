@@ -286,7 +286,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: #555;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -444,6 +444,22 @@ h6 {
 
 #hero .btn-get-started:hover {
   background: #ff8097;
+}
+
+
+.video-container1 {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio (change this value for different aspect ratios) */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container1 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 #hero .btn-watch-video {
@@ -882,25 +898,14 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
+  color: #FF4767;
 }
 
-.services .icon-box h4 a {
-  color: #ff4767;
-  transition: ease-in-out 0.3s;
-}
 
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
-}
-
-.services .icon-box:hover {
-  transform: translateY(-10px);
-}
-
-.services .icon-box:hover h4 a {
-  color: #47b2e4;
 }
 
 /*--------------------------------------------------------------
@@ -913,13 +918,13 @@ section {
 }
 
 .cta h3 {
-  color: #fff;
+  color: #444444;
   font-size: 28px;
   font-weight: 700;
 }
 
 .cta p {
-  color: #fff;
+  color: #444444;
 }
 
 .cta .cta-btn {
@@ -932,13 +937,15 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid #FF4767;
+  color: #FFF;
+  background-color: #FF4767;
 }
 
 .cta .cta-btn:hover {
-  background: rgba(255,71,103, 0.8);
-  border: 2px solid #ff4767;
+  /*background: rgba(255,71,103, 0.8);*/
+  border: 2px solid #ff8097;
+  background-color: #ff8097;
 }
 
 @media (max-width: 1024px) {
@@ -1111,6 +1118,26 @@ section {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+
+.portfolio-description-centered {
+  text-align: center;
+  padding: 0;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.portfolio-description-centered h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.portfolio-description-centered img {
+    width: 13%;
+    height: 13%;
+    object-fit: cover;
+    object-position: center top;
 }
 
 /*--------------------------------------------------------------
@@ -1618,6 +1645,17 @@ section {
   background: #f3f5fa;
   min-height: 40px;
   margin-top: 72px;
+}
+
+.breadcrumbs-modified {
+  padding-top: 0px;
+}
+
+.breadcrumbs-modified h2{
+  padding-bottom: 0px;
+  font-size: 28px;
+  font-weight: 600;
+  color: rgba(255,71,103, 1);
 }
 
 @media (max-width: 992px) {
